@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv/
+
+# Jupyter кэш
+.ipynb_checkpoints/
+__pycache__/
+
+# Данные и среды
+*.csv
+*.env
+
+# Папки
+notebooks/
+data/
+models/
+venv/
+
+# Файлы
+*.ipynb_checkpoints
+__pycache__/
+*.pyc
+.DS_Store
